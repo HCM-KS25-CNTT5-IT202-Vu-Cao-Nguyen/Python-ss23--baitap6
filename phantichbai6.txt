@@ -1,0 +1,12 @@
+project/
+│
+├── main.py
+│
+└── hrm_package/
+    ├── __init__.py
+    ├── ui_display.py
+    ├── attendance_logic.py
+    └── time_calc.py
+
+
+
